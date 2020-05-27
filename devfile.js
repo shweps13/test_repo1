@@ -1,1 +1,8 @@
-// some dev file
+
+
+function hello() {
+    console.log("Hello!");
+}
+
+
+hello();
