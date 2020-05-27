@@ -1,3 +1,11 @@
+
+function hello() {
+    console.log("Hello!");
+}
+
+
+hello();
+
 // some dev file
 const { pool } = require('../../config.js')
 
